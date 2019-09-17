@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="050642f5-b805-4c18-ba1b-ad192aa462df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyTextblob.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyTextblob.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyspellchecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyspellchecker.py" afterDir="false" />
-    </list>
+    <list default="true" id="050642f5-b805-4c18-ba1b-ad192aa462df" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,19 +194,25 @@
       <option name="project" value="LOCAL" />
       <updated>1568672640860</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="modified pyspellchecker.py">
+      <created>1568727734321</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568727734321</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15844545" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32411674" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32411674" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -226,7 +228,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="final repo done" />
-    <option name="LAST_COMMIT_MESSAGE" value="final repo done" />
+    <MESSAGE value="modified pyspellchecker.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified pyspellchecker.py" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Spell correction.py" />
