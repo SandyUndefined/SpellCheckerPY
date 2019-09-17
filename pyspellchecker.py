@@ -1,7 +1,11 @@
 from spellchecker import SpellChecker
 
-
 spell = SpellChecker()
-str = input("Enter any string to check ")
-print(spell.correction(str))  # correct the str
-print(spell.candidates(str))  # provide lists of corrected word called candidates
+char = input("Enter any string to check ")
+
+print(spell.correction(str.lower(char)))  # correct the str
+word = char.split()
+
+# this can be further improved.
+for i in word:
+    print(spell.candidates(i))
