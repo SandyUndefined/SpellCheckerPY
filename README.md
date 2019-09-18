@@ -1,5 +1,6 @@
 # Spell Checker  and Auto Correction
-
+# To do
+ * Fastest way to check spelling of sentence and provide with **_candidates_**
 # Spelling Task
 1. Spelling error detection.  
 2. Spelling error correction.
